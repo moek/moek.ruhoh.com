@@ -3,9 +3,15 @@ html, body {
   background-color: #eee;
 }
 .content p, .content li {
-  font-family: "PT Serif",Georgia,Times,"Times New Roman",serif;
+  font-family: Vollkorn,Georgia,serif;
   font-size: 1.25em;
   line-height: 1.5em;
+}
+.span8 h1 {
+  line-height: 86px;
+}
+.span8 h1, .span8 h2, .span8 h3, .span8 h4, .span8 h5, .span8 h6 {
+  font-family: Vollkorn;
 }
 .navbar {
   margin-bottom: 0;
